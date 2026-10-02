@@ -144,7 +144,7 @@ pydantic-core==2.48.0
 pydantic-extra-types[pycountry]==2.11.1
 pydantic-settings==2.15.0
 pygments==2.21.0
-pyjwt[crypto]==2.13.0
+pyjwt[crypto]==2.15.0
 pymediainfo==6.1.0
 pyparsing==3.3.2
 pytest==8.1.1
