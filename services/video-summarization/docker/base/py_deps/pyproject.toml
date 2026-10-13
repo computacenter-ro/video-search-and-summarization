@@ -29,7 +29,7 @@ dependencies = [
     "kafka-python==2.2.15",
     "prometheus-client==0.25.0",
     # CVE in urllib3 2.6.3 — pin direct dep to 2.7.0 (transitive via requests).
-    "urllib3==2.7.0",
+    "urllib3==2.8.0",
 ]
 
 [tool.uv]
